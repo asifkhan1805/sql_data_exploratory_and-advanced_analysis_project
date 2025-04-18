@@ -1,4 +1,4 @@
-# SQL Data Exploratory and Advanced Analysis Project
+# Velocity Metrics: SQL Exploratory & Advanced Sales Analysis
 
 This project presents an **exploratory and advanced data analysis** of comprehensive sales data for a cycling company using **MS SQL Server**. The project demonstrates strong SQL skills, including complex joins, window functions, aggregations, and data-driven insights.
 
